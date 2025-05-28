@@ -3,7 +3,7 @@
 <p>
   <img src="./pochacco-gif-2.gif" align="right" width="15%"/>
   <samp>
-    <br>Soy una estuadiante aprendiendo de la carrera de computación.
+    <br>Soy una estuadiante aprendiendo de la carrera de computación..
     <br>
     <br>🔹 Actualmente estoy aprendiendo el sistema operativo linux.
     <br>🔹 Estoy aprendiendo a programar.
