@@ -1,7 +1,7 @@
 ### Hello World. I'm Paula Mansilla 👋.
 ---
 <p>
-  <img src="./ico.gif" align="right" width="15%"/>
+  <img src="./pochacco-gif-2.gif" align="right" width="15%"/>
   <samp>
     <br>Soy un desarrollador Web y creador de contenidos digitales.
     <br>
