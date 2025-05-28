@@ -3,11 +3,11 @@
 <p>
   <img src="./pochacco-gif-2.gif" align="right" width="15%"/>
   <samp>
-    <br>Soy un desarrolladora Web y creadora de contenidos digitales.
+    <br>Soy una estuadiante aprendiendo de la carrera de computación.
     <br>
-    <br>🔹 Actualmente estoy aprendiendo linux.
+    <br>🔹 Actualmente estoy aprendiendo el sistema operativo linux.
     <br>🔹 Estoy aprendiendo a programar.
-    <br>🔹 Me interesa el desarrollo de las aplicaciones web.
+    <br>🔹 Me interesa aprender el desarrollo de mi carrera y poder terminarla.
     <br>🔹 
     </samp>
    <br>
